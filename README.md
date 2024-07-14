@@ -1,6 +1,6 @@
-# Multi-modal Structure-embedding Graph Transformer for Visual Commonsense Reasoning
+# Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning
 
-Jian Zhu, Hanli Wang, Bin He
+Jian Zhu, Hanli Wang, Miaojing Shi
 
 ### Overview:
 
