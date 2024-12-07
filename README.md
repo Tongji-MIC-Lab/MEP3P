@@ -72,5 +72,5 @@ You can combine the validation predictions using
 
 Please cite the following paper if you find this work useful:
 
-Jian Zhu, Hanli Wang, and Miaojing Shi, Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning, IEEE Transactions on Circuits and Systems for Video Technology, accepted, 2024.
+Jian Zhu, Hanli Wang, and Miaojing Shi, Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning, IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 11, pp. 11682-11694, Nov. 2024.
 
